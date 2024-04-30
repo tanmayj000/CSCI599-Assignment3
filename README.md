@@ -1,4 +1,4 @@
-# CSCI 599 Assignent 3
+# CSCI 599 Assignment 3
 
 For this assignment, I trained 3D Gaussian Splatting and NERF models on my own data. 
 
